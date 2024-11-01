@@ -1,0 +1,30 @@
+.tmc-wrap.no-tmc {
+	width: 40%;
+}
+
+#tm-custom-sidebars-form {
+	margin-top: 30px;
+
+	#sidebar-name {
+		height: 42px;
+		padding: 0 20px;
+		width: 350px;
+
+		.tmc-wrap.no-tmc & {
+			height: 30px;
+			padding: 0 10px;
+		}
+	}
+}
+
+.tm-custom-sidebars-import-export {
+	margin-top: 30px;
+}
+
+#tm-custom-sidebars-export {
+	margin-top: 15px;
+}
+
+#tm-custom-sidebars-import {
+	margin-top: 30px;
+}

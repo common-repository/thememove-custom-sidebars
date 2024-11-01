@@ -1,0 +1,105 @@
+# Copyright (C) 2019 tm-custom-sidebars
+# This file is distributed under the same license as the tm-custom-sidebars package.
+msgid ""
+msgstr ""
+"Project-Id-Version: tm-custom-sidebars\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language-Team: Anh Hoang Nguyen <hoangkianh31592@gmail.com>\n"
+"Report-Msgid-Bugs-To: hoangkianh31592@gmail.com\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: src/thememove-custom-sidebars/inc/class-thememove-custom-sidebars.php:105
+msgid "Custom Sidebars - ThemeMove Core"
+msgstr ""
+
+#: src/thememove-custom-sidebars/inc/class-thememove-custom-sidebars.php:106, src/thememove-custom-sidebars/inc/class-thememove-custom-sidebars.php:113, src/thememove-custom-sidebars/inc/class-thememove-custom-sidebars.php:114, src/thememove-custom-sidebars/inc/class-thememove-custom-sidebars.php:326, src/thememove-custom-sidebars/views/page-custom-sidebars.php:33
+msgid "Custom Sidebars"
+msgstr ""
+
+#: src/thememove-custom-sidebars/inc/class-thememove-custom-sidebars.php:177, src/thememove-custom-sidebars/inc/class-thememove-custom-sidebars.php:210, src/thememove-custom-sidebars/inc/class-thememove-custom-sidebars.php:303, src/thememove-custom-sidebars/inc/class-thememove-custom-sidebars.php:383
+msgid "Invalid nonce"
+msgstr ""
+
+#: src/thememove-custom-sidebars/inc/class-thememove-custom-sidebars.php:186
+msgid "Sidebar already exists, please use a different name."
+msgstr ""
+
+#: src/thememove-custom-sidebars/inc/class-thememove-custom-sidebars.php:217
+msgid "Sidebar does not exist."
+msgstr ""
+
+#: src/thememove-custom-sidebars/inc/class-thememove-custom-sidebars.php:267
+msgid "Sidebars"
+msgstr ""
+
+#: src/thememove-custom-sidebars/inc/class-thememove-custom-sidebars.php:270
+msgid "Create an text file containing all custom sidebars"
+msgstr ""
+
+#. translators: %s: File path.
+#: src/thememove-custom-sidebars/inc/class-thememove-custom-sidebars.php:358
+msgid "The %s file does not exist."
+msgstr ""
+
+#: src/thememove-custom-sidebars/inc/class-thememove-custom-sidebars.php:371, src/thememove-custom-sidebars/inc/class-thememove-custom-sidebars.php:424, src/thememove-custom-sidebars/inc/class-thememove-custom-sidebars.php:429
+msgid "Error: Custom Sidebars data could not be read. Please try a different file."
+msgstr ""
+
+#: src/thememove-custom-sidebars/inc/class-thememove-custom-sidebars.php:426, src/thememove-custom-sidebars/inc/class-thememove-custom-sidebars.php:458
+msgid "Importing Custom Sidebars"
+msgstr ""
+
+#: src/thememove-custom-sidebars/inc/class-thememove-custom-sidebars.php:450
+msgid " - Imported"
+msgstr ""
+
+#: src/thememove-custom-sidebars/inc/class-thememove-custom-sidebars.php:478
+msgid "Importing menu"
+msgstr ""
+
+#: src/thememove-custom-sidebars/views/page-custom-sidebars.php:44, src/thememove-custom-sidebars/views/page-custom-sidebars.php:71
+msgid "Sidebar Name"
+msgstr ""
+
+#: src/thememove-custom-sidebars/views/page-custom-sidebars.php:45
+msgid "CSS Class"
+msgstr ""
+
+#: src/thememove-custom-sidebars/views/page-custom-sidebars.php:46
+msgid "Action"
+msgstr ""
+
+#: src/thememove-custom-sidebars/views/page-custom-sidebars.php:57
+msgid "Remove"
+msgstr ""
+
+#: src/thememove-custom-sidebars/views/page-custom-sidebars.php:64
+msgid "No custom sidebar created"
+msgstr ""
+
+#: src/thememove-custom-sidebars/views/page-custom-sidebars.php:73
+msgid "Add New Sidebar"
+msgstr ""
+
+#: src/thememove-custom-sidebars/views/page-custom-sidebars.php:83
+msgid "Export Custom Sidebars"
+msgstr ""
+
+#: src/thememove-custom-sidebars/views/page-custom-sidebars.php:85
+msgid "Export"
+msgstr ""
+
+#: src/thememove-custom-sidebars/views/page-custom-sidebars.php:94
+msgid "Import Custom Sidebars"
+msgstr ""
+
+#: src/thememove-custom-sidebars/views/page-custom-sidebars.php:97
+msgid "Import"
+msgstr ""
